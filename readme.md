@@ -1,4 +1,6 @@
-# The Wild Oasis - CapStone Project -
+# The Wild Oasis - React CapStone Project -
+
+**Intorduction**: Small Boutique hotel with 8 luxurious cabin that have internal Web App for **Hotel Management System** & will have a **Customer-Facing Web App** to customer be able to book their cabin and ect.
 
 ## Q1: How did I come up with this project?
 
@@ -8,7 +10,41 @@ I basically followed along a course online to be able to create this project wit
 
 To indicate to some of it I would say that I **learned** and **practice**:
 
-## Q3: How to connect with me for any inquires related to these stuff?
+- Project Planning - Gathering **Requirements** and **Features**, Devide the app into **Pages**, Devide the app into **Feature Categories**, Decide the **Tech Stack**
+- Integrating **SubaBase** **API** for DataBase Management - Storing Data - & Authentication (Basically the Back-End)
+- Client Side Rendering (CSR) With Vanilla React & React-Dom
+- Setting up the project with **Vite** build tools.
+- Configuring **EsLint** in the project created with **Vite**
+- Folder Oraganization for a **Real-World** project - Context, Data, Features, Hooks, Pages, Services, Styles, UI, Utils, etc -
+- Styled-Components library for styling out React Components.
+
+## Q3: What features does this project have?
+
+-➡️ CRUD operations (Create, Read, Update, Delete)\
+-➡️ Bookings (View & CRUD)\
+-➡️ Cabin (View & CRUD & Duplicate)\
+-➡️ DashBoard (Shows insight from fetched data to user)\
+-➡️ Sorting (DashBoard & Bookings)\
+-➡️ Filtering (Bookings)\
+-➡️ Check in & out unconfirmed (Not paid yet) Bookings\
+-➡️ App settings (Manipualting some critetira about the cabins - MinNight & MaxNight of stay, etc - )\
+-➡️ Authentication & Creating additional user for the system using **SupaBase**\
+
+## Q4: What **Tech Stack** does this project have?
+
+-➡️ React (Rendering & Core Features)\
+-➡️ React-Router (Routing)\
+-➡️ Styled Components (Styling)\
+-➡️ React-Query (Remote State Management)\
+-➡️ Context API (UI State Management)\
+-➡️ React-Hook-Form (Handling Forms)\
+-➡️ React-Icons (Icons)\
+-➡️ React-Hot-Toast (Notifications)\
+-➡️ ReCharts (Charts)\
+-➡️ Date-Fns library (Date Manipulation)\
+-➡️ SupaBase service (Sotre Data - Remote State -, Authentication, & API Integration)\
+
+## Q4: How to connect with me for any inquires related to these stuff?
 
 pourya.swe@gmail.com\
 [pouryavahedi.com](https://pouryavahedi.com/)
