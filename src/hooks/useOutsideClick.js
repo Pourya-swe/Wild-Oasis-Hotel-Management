@@ -6,6 +6,7 @@ export function useOutsideClick(handler, listeningCapturing = true) {
   useEffect(
     function () {
       function handleClick(e) {
+        //// Checking even if exists and it does not contain the element we clicked on it inside itself.
         if (ref.current && !ref.current.contains(e.target)) {
           handler();
         }

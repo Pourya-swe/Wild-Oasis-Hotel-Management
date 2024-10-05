@@ -24,3 +24,10 @@ dist-ssr
 *.sw?
 
 .env
+Styled-Components.md
+Routes.md
+SupaBase.md
+React-Query.md
+Toast.md
+React-Patterns.md
+React Portal.md
