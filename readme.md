@@ -26,6 +26,7 @@ To indicate to some of it I would say that I **learned** and **practice**:
 - **PreFetching** with **React Query**
 - **Rechart Library** to show Statistics about bookings and etc in the Dashboard.
 - Deployment using **Netlify**
+- All other **React core features**
 
 ## Q2: What features does this project have?
 
